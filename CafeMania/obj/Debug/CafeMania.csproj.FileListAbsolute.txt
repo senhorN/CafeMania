@@ -1,0 +1,15 @@
+C:\Users\nick6\source\repos\CafeMania\CafeMania\bin\Debug\CafeMania.exe.config
+C:\Users\nick6\source\repos\CafeMania\CafeMania\bin\Debug\CafeMania.exe
+C:\Users\nick6\source\repos\CafeMania\CafeMania\bin\Debug\CafeMania.pdb
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.csproj.AssemblyReference.cache
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.TltCafeMania.resources
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.Properties.Resources.resources
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.csproj.GenerateResource.cache
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.csproj.CoreCompileInputs.cache
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.exe
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.pdb
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.Form2.resources
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.Form3.resources
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.Form4.resources
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.Form5.resources
+C:\Users\nick6\source\repos\CafeMania\CafeMania\obj\Debug\CafeMania.Form6.resources
